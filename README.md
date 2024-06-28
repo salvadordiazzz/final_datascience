@@ -40,4 +40,4 @@ Los datos han sido limpiados y se han eliminado los valores atípicos para asegu
 ## Conclusiones
 
 ## Licencia
-Este proyecto se distribuye bajo la licencia MIT. Consulte el archivo LICENSE para obtener más información.
+Este proyecto se distribuye mediante la licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
